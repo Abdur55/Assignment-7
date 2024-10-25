@@ -1,0 +1,63 @@
+ [
+    {
+      "playerId": 1,
+      "name": "Mehidy Hasan Miraz",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/dMYsQn9/8-1-20230124142552.jpg",
+      "role": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Choose Player",
+      "biddingPrice": "Price: $2500000"
+    },
+    {
+      "playerId": 2,
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/SxB07Sd/90409794.webp",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Choose Player",
+      "biddingPrice": "Price: $200000"
+    },
+    {
+      "playerId": 3,
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/hD8VGm2/mushi27102019.webp",
+      "role": "Wic-Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Choose Player",
+      "biddingPrice": "Price: $1500000"
+    },
+    {
+      "playerId": 4,
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/VNGdjtF/prothomalo-english-2022-07-3b61cdbf-4c82-445a-b1cd-191cc117eedd-prothomalo-bangla-2021-03-e34f91b0-6.webp",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Choose Player",
+      "biddingPrice": "Price: $100000"
+    },
+    {
+      "playerId": 5,
+      "name": "Mahmudullah Riyad",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/ymzYjrG/274021-4.webp",
+      "role": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Choose Player",
+      "biddingPrice": "Price: $3500000"
+    },
+    {
+      "playerId": 6,
+      "name": "Rubel Hossain",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/R7XCNd6/cric-150114-COM-CRICKET-RUBEL-20150114.webp",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Choose Player",
+      "biddingPrice": "Price: $300000"
+    }
+  ]
+
